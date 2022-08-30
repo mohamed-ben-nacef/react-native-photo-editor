@@ -1,6 +1,8 @@
-# React Native Photo Editor (RNPE)
+#@bien-pr/react-native-photo-editor
 
-🎃 This repository is for Android build with kotlin 1.6.0
+🎃 This repository forked from [@baronha/react-native-photo-editor](https://github.com/baronha/react-native-photo-editor) for Android build with kotlin 1.6.0
+
+# React Native Photo Editor (RNPE)
 
 🌄 Image editor using native modules for iOS and Android. Inherit from 2 available libraries, [ZLImageEditor](https://github.com/longitachi/ZLImageEditor) (iOS) and [PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) (Android)
 
