@@ -1,4 +1,4 @@
-#@bien-pr/react-native-photo-editor
+# @bien-pr/react-native-photo-editor
 
 🎃 This repository forked from [@baronha/react-native-photo-editor](https://github.com/baronha/react-native-photo-editor) for Android build with kotlin 1.6.0
 
