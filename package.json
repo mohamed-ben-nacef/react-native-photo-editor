@@ -1,5 +1,5 @@
 {
-  "name": "@bien-pr/react-native-photo-editor",
+  "name": "@med50/react-native-photo-editor",
   "version": "1.1.4",
   "description": "🌄 Image editor using native modules for iOS and Android",
   "main": "lib/commonjs/index",
